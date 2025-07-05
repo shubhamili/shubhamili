@@ -1,12 +1,3 @@
-# 👨‍💻 Shubham Singh
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;Building+Scalable+Solutions)](https://git.io/typing-svg)
-
-</div>
-
-
 ## 💻 Tech Stack
 
 ### 🎯 Backend Focus
