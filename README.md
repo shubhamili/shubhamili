@@ -53,9 +53,7 @@
 ---
 
 <div align="center">
-  
-### 💡 *"Good code is its own best documentation"* - Steve McConnell
-
+ 
 **Thanks for visiting!**
 
 </div>
