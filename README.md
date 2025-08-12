@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamcode2&layout=compact&langs_count=8)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shubhamcode2&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamcode2&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
