@@ -19,7 +19,8 @@
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamcode2&layout=compact&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhamcode2&theme=dark&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamcode2&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamcode2&theme=github-compact&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)
