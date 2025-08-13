@@ -19,9 +19,8 @@
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamcode2&layout=compact&langs_count=8)
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhamcode2&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com?user=shubhamcode2&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
 
 
 
