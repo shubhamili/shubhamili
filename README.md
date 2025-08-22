@@ -1,34 +1,37 @@
 ## 💻 Tech Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Restify](https://img.shields.io/badge/Restify-FF6B35?style=for-the-badge&logo=restify&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Restify-FF6B35?logo=restify&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" height="20"/>
 
 ---
-
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamili&layout=compact&langs_count=8)
-<img src="https://streak-stats.demolab.com?user=shubhamili&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamili&layout=compact&langs_count=8" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=shubhamili&theme=transparent&hide_border=true" height="150"/>
+</p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shubhamili&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" height="20"/>
+</p>
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=shubhamili&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamili&theme=github-compact&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamili&theme=github-compact&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" height="200"/>
+</p>
 
 ---
 
