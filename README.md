@@ -21,14 +21,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamcode2&layout=compact&langs_count=8)
-<img src="https://streak-stats.demolab.com?user=shubhamcode2&theme=transparent&hide_border=true" alt="GitHub Streak" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamili&layout=compact&langs_count=8)
+<img src="https://streak-stats.demolab.com?user=shubhamili&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=shubhamcode2&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamcode2&theme=github-compact&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamili&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamili&theme=github-compact&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
@@ -39,7 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-singh-041b2a347/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Shubhamili)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsinghia160@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamcode2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamili)
 
 </div>
 
