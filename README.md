@@ -29,9 +29,5 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shubhamili&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" height="20"/>
-</p>
-
-<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamili&theme=github-compact&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" height="200"/>
 </p>
