@@ -1,4 +1,3 @@
-## 💻 Tech Stack
 <div>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="20"/>
