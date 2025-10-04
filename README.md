@@ -27,6 +27,3 @@
   <img src="https://streak-stats.demolab.com?user=shubhamili&theme=transparent&hide_border=true" height="150"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamili&theme=github-compact&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" height="200"/>
-</p>
