@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="25"/>
@@ -31,7 +33,8 @@
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/EJS-8CBB1B?logo=ejs&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Express%20+%20Rate%20Limit-333?logo=express&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25"/>
+
+
 
 
 
