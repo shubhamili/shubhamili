@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/Express--Validator-6DB33F?logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Node--Cache-339933?logo=node.js&logoColor=white" height="25"/>
-<!-- <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="25"/> -->
+<img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/WebSocket-000000?logo=websocket&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Dotenv-000000?logo=dotenv&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CORS-00599C?logo=cors&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white" height="25"/>
