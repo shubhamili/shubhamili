@@ -34,6 +34,8 @@
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/EJS-8CBB1B?logo=ejs&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Express%20+%20Rate%20Limit-333?logo=express&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?logo=google&logoColor=white" height="25"/>
+
 
 
 
