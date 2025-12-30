@@ -48,9 +48,8 @@
 
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamili&layout=compact&langs_count=8" height="150"/>
-
+<!-- <p align="left"> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamili&layout=compact&langs_count=8" height="150"/>
   <img src="https://streak-stats.demolab.com?user=shubhamili&theme=transparent&hide_border=true" height="150"/>
-</p>
+<!-- </p> -->
 
