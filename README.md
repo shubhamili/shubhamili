@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonec2&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/AWS_IAM-232F3E?logo=amazonaws&logoColor=white" height="25"/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="25"/>
