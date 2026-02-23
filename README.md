@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=react&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25"/>
