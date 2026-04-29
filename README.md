@@ -5,11 +5,11 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height="25"/>
+<!-- <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height="25"/>   -->
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="25"/>
+<!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="25"/> -->
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonec2&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/AWS_IAM-232F3E?logo=amazonaws&logoColor=white" height="25"/>
@@ -39,7 +39,7 @@
 <!-- <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black" height="20"/> -->
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" height="25"/>
+<!-- <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" height="25"/> -->
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/EJS-8CBB1B?logo=ejs&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Express%20+%20Rate%20Limit-333?logo=express&logoColor=white" height="25"/>
