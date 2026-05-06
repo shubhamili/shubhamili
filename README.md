@@ -1,32 +1,66 @@
-<!-- Stats -->
+<h1 align="center">Hi there, I'm Shubham 👋</h1>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamili&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=shubhamili&theme=github-dark&hide_border=true" height="150"/>
+  <b>Full Stack Developer</b> · Node.js · React · PostgreSQL · AWS
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamili&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="150"/>
+  <a href="https://github.com/shubhamili">
+    <img src="https://komarev.com/ghpvc/?username=shubhamili&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/shubhamili?tab=followers">
+    <img src="https://img.shields.io/github/followers/shubhamili?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  </a>
 </p>
 
+---
 
+### 👨‍💻 About Me
 
-## 🛠 Tech Stack
+- 🔭 I'm currently working on full-stack web applications
+- 🌱 I'm always exploring new tools in the Node.js / React ecosystem
+- 💬 Ask me about **Node.js, Express, MongoDB, PostgreSQL, React, Next.js**
+- 📫 Reach me at: **your.email@example.com**
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
 
-### 🖥 Backend
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" height="28"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" height="28"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="28"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+#### 🖥 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Restify](https://img.shields.io/badge/Restify-FF6B35?logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?logoColor=white)
 
-### 🗄 Databases
+#### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-### 🎨 Frontend
+#### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -39,7 +73,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8CBB1B?logoColor=white)
 
-### ☁️ Cloud & DevOps
+#### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonec2&logoColor=white)
@@ -48,7 +82,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
-### 🔧 Tools & Testing
+#### 🔧 Tools & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -56,10 +90,60 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white)
 
-### 🔐 Auth & Security
+#### 🔐 Auth & Security
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?logo=google&logoColor=white)
 ![CORS](https://img.shields.io/badge/CORS-00599C?logoColor=white)
 ![Express Validator](https://img.shields.io/badge/Express--Validator-6DB33F?logo=node.js&logoColor=white)
 ![Express Rate Limit](https://img.shields.io/badge/Express_Rate_Limit-333?logo=express&logoColor=white)
 ![Dotenv](https://img.shields.io/badge/Dotenv-000000?logo=dotenv&logoColor=white)
 ![node-cache](https://img.shields.io/badge/node--cache-339933?logo=node.js&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhamili&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamili&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamili&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+> ⚠️ *Replace these with your actual repositories.*
+
+<p align="left">
+  <a href="https://github.com/shubhamili/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamili&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/shubhamili/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamili&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! If you find any of my work useful, consider giving a ⭐</i>
+</p>
