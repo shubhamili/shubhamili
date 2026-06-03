@@ -15,6 +15,7 @@
 ![Restify](https://img.shields.io/badge/Restify-FF6B35?logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -43,6 +44,9 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-success?logo=githubactions&logoColor=white)
+![GitHub Workflow](https://img.shields.io/badge/Workflow-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
