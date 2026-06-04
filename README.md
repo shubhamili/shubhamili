@@ -63,25 +63,3 @@
 ![Express Rate Limit](https://img.shields.io/badge/Express_Rate_Limit-333?logo=express&logoColor=white)
 ![Dotenv](https://img.shields.io/badge/Dotenv-000000?logo=dotenv&logoColor=white)
 ![node-cache](https://img.shields.io/badge/node--cache-339933?logo=node.js&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-</p> -->
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhamili&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamili&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
